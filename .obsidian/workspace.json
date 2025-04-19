@@ -11,10 +11,14 @@
             "id": "6d90ef62bda1ec49",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "IDEs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IDEs"
             }
           }
         ]
@@ -166,11 +170,11 @@
   },
   "active": "6d90ef62bda1ec49",
   "lastOpenFiles": [
+    "PyCharm.md",
+    "IDEs.md",
     "Data Engineering.md",
     "Apache NiFi.md",
     "Шаблоны/Шаблон заметки (обновить!).md",
-    "PyCharm.md",
-    "IDEs.md",
     "Добро пожаловать.md",
     "Шаблоны",
     "Картинки"
