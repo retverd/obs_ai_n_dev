@@ -1,5 +1,6 @@
 {
-  "attachmentFolderPath": "Картинки",
+  "attachmentFolderPath": "./attachments",
   "useMarkdownLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "newLinkFormat": "absolute"
 }
