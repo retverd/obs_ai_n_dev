@@ -1,0 +1,16 @@
+/* Цвет обычных ссылок */
+.cm-hmd-internal-link, 
+a.internal-link {
+  color: #FF0000 !important; /* Замените на нужный HEX-код */
+}
+
+/* Цвет посещенных ссылок */
+a.internal-link:visited {
+  color: #8A2BE2; 
+}
+
+/* Цвет ссылок при наведении */
+a.internal-link:hover {
+  color: #33FF57;
+  text-decoration: underline;
+}
